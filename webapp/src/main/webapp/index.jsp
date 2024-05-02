@@ -20,7 +20,6 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
     <br>
-    i need a new bike
     <br>
     <br>
     <br>
@@ -32,7 +31,19 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, this is gopi pinninti, we come to tomcat </h1>
+   <h1> Hie everyone welcome to code area
+public class Factorial {
+    public static void main(String[] args) {
+        int num = 5;
+        int factorial = 1;
+        for (int i = 1; i <= num; ++i) {
+            factorial *= i;
+        }
+        System.out.println("Factorial of " + num + " is: " + factorial);
+    }
+}
+
+</h1>
 
   
 </form>
