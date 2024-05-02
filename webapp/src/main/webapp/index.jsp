@@ -5,12 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Namghhhhhhhhhhhhhhhhe" id="Name" required>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <input type="text" placeholder="Enter Full Name" name="vickyy" id="Name" required>
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobdfxxxxxxxxxxxxxxxile" id="mobile" required>
     <br>
@@ -25,8 +20,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
     <br>
-    <br>
-    <br>
+    i need a new bike
     <br>
     <br>
     <br>
